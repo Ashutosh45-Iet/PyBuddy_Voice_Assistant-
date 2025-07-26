@@ -1,0 +1,2 @@
+gmail_password="khcmbxxydziryklv"
+openai_key="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"
